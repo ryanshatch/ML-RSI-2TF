@@ -19,13 +19,7 @@ This script is built for traders who want a more refined RSI view without changi
 ## Authors
 
 Developed by:
-
-- Ryanshatch
-- 0ximaclone
-- zen silva
-- zencrypt tech
-- imaclone.x
-- imaclone.sol
+- Ryanshatch / 0ximaclone
 
 ## What It Does
 
