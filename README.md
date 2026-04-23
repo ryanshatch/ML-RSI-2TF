@@ -370,9 +370,9 @@ For a cleaner daily setup:
 
 ## License / Usage
 
-No explicit license block is included in the script shown here.
+Copyright (c) 2026 Ryan Hatch, ryanshatch, imaclone, IM A CLONE, and all of the other names associated with Ryan Hatch or imaclone as legal entities and individuals.
 
-If you plan to publish or distribute it, add a license section that matches how you want others to use, modify, or credit the work.
+All rights reserved.
 
 ---
 
@@ -380,4 +380,4 @@ If you plan to publish or distribute it, add a license section that matches how 
 
 For research and algorithmic experimentation only. No signals are guaranteed.
 
-And please, for the love of God, **DYOFR**.
+> And please, for the love of God, **DYOFR**.
